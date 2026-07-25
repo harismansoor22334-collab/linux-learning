@@ -1,0 +1,25 @@
+==========================
+ Linux Learning Journey
+==========================
+Day: 1
+
+Commands Learned:
+- pwd
+- ls
+- cd
+- mkdir
+- rm -r
+- tree
+- touch
+- cat
+- echo
+- nano
+
+Concepts:
+- Linux Basics
+- Terminal
+- Relative Path
+- Absolute Path
+
+Status:
+Completed Day 1 Successfully. 
