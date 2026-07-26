@@ -1,0 +1,5 @@
+1 : Ahmad  : 1000
+2 : zaryab : 5000
+3 : Khan   : 3000
+4 : Omar   : 1500
+5 : Kinza  : 2000
