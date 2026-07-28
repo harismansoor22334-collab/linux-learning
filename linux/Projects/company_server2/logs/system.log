@@ -1,0 +1,10 @@
+INFO: System Boot Started
+INFO: Hardware Check Completed
+INFO: Kernel Loaded Successfully
+WARNING: CPU Temperature High
+INFO: Network Service Started
+ERROR: Failed to Mount Backup Drive
+INFO: User Authentication Service Running
+WARNING: Low Disk Space
+ERROR: Time Synchronization Failed
+INFO: System Ready

@@ -1,0 +1,6 @@
+Departments: 5
+Log Files: 4
+Employees Recorded: 25
+Backups Completed 
+Archive Completed 
+Recovery successful

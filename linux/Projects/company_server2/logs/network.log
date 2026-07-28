@@ -1,0 +1,10 @@
+INFO: Network Interface Enabled
+INFO: DHCP Address Assigned
+WARNING: High Network Latency
+INFO: DNS Service Running
+ERROR: Packet Loss Detected
+INFO: VPN Connected
+WARNING: Unstable Connection
+ERROR: Gateway Not Reachable
+INFO: Connection Restored
+INFO: Network Stable
