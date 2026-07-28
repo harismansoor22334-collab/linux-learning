@@ -1,0 +1,8 @@
+Car
+Motorcycle
+Bicycle
+Generator
+Toolbox
+Fire Extinguisher
+First Aid Kit
+Server

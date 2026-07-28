@@ -1,0 +1,8 @@
+Farhan : Absent
+Naveed : Present
+Adnan : Present
+Junaid : Absent
+Sameer : Absent
+Waqas : Present
+Shahid : Present 
+Rizwan : Present

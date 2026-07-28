@@ -1,0 +1,8 @@
+Ali : 670000
+Ahmed : 100000
+Hassan : 30000
+Hussain : 38000
+Umar : 18000
+Bilal : 10000
+Zain : 45000
+Hamza : 50000

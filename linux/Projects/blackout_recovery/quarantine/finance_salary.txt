@@ -1,0 +1,8 @@
+Abdullah : 2500
+Usman : 4000
+Salman : 38000
+Ahsan : 2400
+Fahad : 3000
+Imran : 7000
+Asad : 10000
+Talha : 5000

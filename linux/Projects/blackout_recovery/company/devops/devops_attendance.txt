@@ -1,0 +1,8 @@
+Ali : Present 
+Ahmed : Present 
+Hassan : Absent 
+Hussain : Present 
+Umar : Absent 
+Bilal : Absent 
+Zain : Present 
+Hamza : Present 

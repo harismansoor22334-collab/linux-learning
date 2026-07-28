@@ -1,0 +1,8 @@
+Farhan : 18000
+Naveed : 20000
+Adnan : 30000
+Junaid : 15000
+Sameer : 40000
+Waqas : 20000
+Shahid : 30000
+Rizwan : 60000

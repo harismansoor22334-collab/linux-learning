@@ -1,0 +1,8 @@
+Abdullah : present
+Usman : Absent
+Salman : Absent 
+Ahsan : Present 
+Fahad : Present
+Imran : Present
+Asad : Present
+Talha : Absent 

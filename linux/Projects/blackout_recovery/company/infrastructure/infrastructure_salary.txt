@@ -1,0 +1,8 @@
+Saad : 55000
+Daniyal : 46000
+Haris : 35000
+Ibrahim : 30000
+Yousaf : 10000
+Taha : 20000
+Rayyan : 40000
+Shahzaib : 60000

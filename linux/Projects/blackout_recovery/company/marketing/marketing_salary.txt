@@ -1,0 +1,8 @@
+Kamran : 34000
+Sohail : 20000
+Noman : 25000
+Arslan : 40000
+Khizar : 15000
+Adeel : 30000
+Kashif : 15000
+Shayan : 20000

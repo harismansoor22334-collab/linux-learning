@@ -1,0 +1,15 @@
+INFO: Firewall Enabled
+INFO: Security Services Started
+WARNING: Multiple Failed Login Attempts
+ERROR: Permission Denied
+INFO: SSH Connection Established
+WARNING: Unknown Device Detected
+ERROR: Unauthorized Access Attempt
+INFO: Antivirus Definitions Updated
+WARNING: Password Expiring Soon
+INFO: User Authentication Successful
+ERROR: Suspicious Login Detected
+INFO: Security Scan Started
+INFO: Security Scan Completed
+WARNING: SSH Login From New IP
+INFO: Security Services Running

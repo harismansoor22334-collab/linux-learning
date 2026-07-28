@@ -1,0 +1,7 @@
+Incident Time: 
+Attack Type:
+Files Qurantined:
+Backup Completed:
+Logs Investigated:
+Recovery Status: 
+Engineer:

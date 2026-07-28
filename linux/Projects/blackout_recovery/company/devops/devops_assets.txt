@@ -1,0 +1,8 @@
+Laptop
+Mobile Phone
+Keyboard
+Mouse
+Monitor
+Printer
+Scanner
+Webcam

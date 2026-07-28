@@ -1,0 +1,8 @@
+CCTV Camera
+Speaker
+Headphones
+Microphone
+Tablet
+Smartwatch
+Power Bank
+Extension Board
